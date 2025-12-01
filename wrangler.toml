@@ -1,4 +1,4 @@
-name = "sub-store-workers"
+name = "conan-convert"
 compatibility_date = "2023-07-19"
 main = "src/index.ts"
 compatibility_flags = [ "nodejs_compat" ]
