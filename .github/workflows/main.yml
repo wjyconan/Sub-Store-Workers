@@ -1,4 +1,4 @@
-name: build sub-store-workers
+name: build convert_conan
 
 on:
   workflow_dispatch:
